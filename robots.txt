@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
 Sitemap: https://bloxd-io.github.io/sitemap.xml
